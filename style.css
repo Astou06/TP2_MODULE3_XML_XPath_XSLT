@@ -21,7 +21,7 @@ tbody tr:hover{background:var(--bleu-clair)}
 td.rang{font-weight:700;color:var(--gris);width:3rem}  
 td.moyenne{font-variant-numeric:tabular-nums;font-weight:600}  
 .absent{color:#94a3b8;font-style:italic}  
-.badge{display:inline-block;padding:.15rem .65rem;border-radius:999px;font-size:.8rem;font weight:600}  
+.badge{display:inline-block;padding:.15rem .65rem;border-radius:999px;font-size:.8rem;font-weight:600}  
 .reussite{background:var(--vert-clair);color:var(--vert)}  
 .echec{background:var(--rouge-clair);color:var(--rouge)}  
 .major td{background:#fef9c3 !important}  
